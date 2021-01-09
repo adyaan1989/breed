@@ -4,5 +4,7 @@ Pillow>=2.2.2
 streamlit>=0.64.0
 opencv-python==4.2.0.32
 pandas>=0.19
-tensorflow==2.4.0
+tensorflow==2.0
 Keras==2.4.3
+jedi==0.16.0
+six==1.15.0
