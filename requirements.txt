@@ -2,8 +2,8 @@ numpy>=1.9.2
 pandas>=0.19
 Pillow>=2.2.2
 streamlit>=0.64.0
-tensorflow==2.2
-Keras==2.4.3
+tensorflow==2.0
+Keras==2.0
 jedi==0.16.0
 six==1.15.0
 altair==4.0.1
